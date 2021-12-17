@@ -1,0 +1,74 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+* {
+    font-family: 'Mulish', sans-serif;
+}
+
+.container {
+    padding: 80px 168px;
+}
+
+.mainAll {
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+
+.hr {
+    height: 3px;
+    width: 19%;
+    background-color: red;
+}
+
+.main1 {
+    padding: 28px 29px;
+    box-shadow: rgb(100 100 111 / 20%) 0px 7px 29px 0px;
+    width: 40%;
+    box-sizing: border-box;
+}
+
+.main2 {
+    padding: 28px 29px;
+    box-shadow: rgb(100 100 111 / 20%) 0px 7px 29px 0px;
+    width: 40%;
+    box-sizing: border-box;
+}
+
+.text {
+    font-weight: 900;
+    font-size: 37px;
+    margin-bottom: 16px;
+    margin-top: 17px;
+}
+
+.allText {
+    text-align: center;
+}
+
+.text2 {
+    font-size: 24px;
+    color: gray;
+    margin-bottom: 0;
+}
+
+.text3 {
+    font-size: 18px;
+    line-height: 1.7;
+    margin-bottom: 26px;
+}
+
+.btn {
+    font-size: 21px;
+    color: red;
+    border: 2px solid red;
+    padding: 14px 40px 14px 40px;
+    border-radius: 6px;
+    background-color: white;
+}
+
+.img {
+    width: 100%;
+}
